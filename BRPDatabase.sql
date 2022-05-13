@@ -15,6 +15,8 @@ CREATE TABLE employee_table(
     PRIMARY KEY (ID)
 );
 show tables;
+#=====================================================================================#
+# Describe table
 desc employee_table;
 #=====================================================================================#
 # add new column in table
